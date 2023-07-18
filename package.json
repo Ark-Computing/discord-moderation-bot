@@ -1,0 +1,30 @@
+{
+  "name": "arkbot",
+  "version": "1.0.0",
+  "description": "A discord bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "/status"
+  },
+  "keywords": [
+    "JS",
+    "Discord",
+    "Javascript",
+    "Discord.js",
+    "Ticket"
+  ],
+  "author": "xWass",
+  "license": "ISC",
+  "dependencies": {
+    "@keyv/sqlite": "^3.6.5",
+    "better-sqlite3": "^8.4.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "keyv": "^4.5.2",
+    "sequelize": "^6.32.1",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.43.0"
+  }
+}
