@@ -5,9 +5,8 @@
   "main": "bot.js",
   "scripts": {
     "test": "/status",
-    "refresh": "node deploy.js",
-    "start": "node bot.js",
-    "db": "node dbInit.js"
+    "prestart": "node prestart.js",
+    "start": "node bot.js"
   },
   "keywords": [
     "JS",
