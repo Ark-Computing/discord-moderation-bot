@@ -2,10 +2,10 @@
     "clientId": "1135693428240433162",
 	"guildId": "1122611789989941369",
     "applicationTicketCategory": "1122611868847050832",
-    "supportTicketCategory": "1122611889168453702",
-    "ticketLogChannel": "1122612030470365314",
-    "ticketTranscriptChannel": "1122612046136102932",
-    "access_to_ticket" : ["1122612184925610085", "1122612147457892443"],
+    "supportTicketCategory": "1135423594961313864",
+    "ticketLogChannel": "1135748827203256330",
+    "ticketTranscriptChannel": "1135748827203256330",
+    "access_to_ticket" : ["1135423637684502579"], 
     "openApplicationsChannel" : "1122764335698169966",
     "openSupportChannel" : "1122764360880762950"
 }

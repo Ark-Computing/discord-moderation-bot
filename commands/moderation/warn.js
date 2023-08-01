@@ -74,7 +74,7 @@ module.exports = {
         });
 
         const logChannel = interaction.guild.channels.cache.find(
-            (channel) => channel.name === "logs"
+            (channel) => channel.name === "logging" || "logs"
         );
 
         await interaction.reply({
